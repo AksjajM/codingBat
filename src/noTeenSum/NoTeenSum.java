@@ -1,4 +1,4 @@
-package exercise_1;
+package noTeenSum;
 
 public class NoTeenSum {
     public static int noTeenSum(int a, int b, int c) {

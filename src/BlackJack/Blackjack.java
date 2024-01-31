@@ -1,4 +1,4 @@
-package exercise_a;
+package BlackJack;
 
 public class Blackjack {
 
